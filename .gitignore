@@ -1,0 +1,6 @@
+
+# Dependency folder.
+node_modules
+
+# Bundled source code
+bundle.js
